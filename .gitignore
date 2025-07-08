@@ -1,2 +1,1 @@
-vector_store/
-*.bin\n*.pkl\.py[cod]
+vector_store/*\n!vectot_store/*.dvc
