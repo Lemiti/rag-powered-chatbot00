@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+re
+sentence_transformers
+langchain
+faiss-cpu
+tqdm
+pickle
