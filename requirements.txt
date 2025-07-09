@@ -2,8 +2,11 @@ pandas
 numpy
 seaborn
 re
+transformers
 sentence_transformers
 langchain
 faiss-cpu
 tqdm
 pickle
+langchain-community
+accelerate huggingface_hub
