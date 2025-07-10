@@ -2,8 +2,10 @@ pandas
 numpy
 seaborn
 re
+transformers
 sentence_transformers
 langchain
 faiss-cpu
 tqdm
 pickle
+langchain-hugggingface
