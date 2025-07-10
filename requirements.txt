@@ -8,5 +8,4 @@ langchain
 faiss-cpu
 tqdm
 pickle
-langchain-community
-accelerate huggingface_hub
+langchain-hugggingface
