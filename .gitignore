@@ -1,1 +1,3 @@
 vector_store/*\n!vectot_store/*.dvc
+src/__pycache__/
+.gradio/
